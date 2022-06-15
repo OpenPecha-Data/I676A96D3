@@ -1,0 +1,53 @@
+id: I676A96D3
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:18:35.110434'
+last_modified: '2022-06-15T20:18:35.110440'
+parser: null
+source_metadata:
+  title: Abhisamayālaṃkāra Series
+  language: bo
+  description: 'Texts related to the Abhisamayālaṃkāra (mngon rtogs rgyan) or Clear
+    Ornament of Realization, one of the Five Treatises of Maitreyanātha:'
+  volume:
+    fABA3:
+      title: 'Words from the Lineage Masters to Clarify Maitreyanātha''s Vision: An
+        Overview of the Perfection of Wisdom''s Ornament of Realization'
+      base_file: fABA3.txt
+      order: 1
+      parent: Commentaries
+    fDA29:
+      title: Prologue to Abhisamayālaṃkāra Commentary
+      base_file: fDA29.txt
+      order: 2
+      parent: Commentaries
+    fC0BA:
+      title: A Preliminary to the Explanation of the Prajñāpāramitā
+      base_file: fC0BA.txt
+      order: 3
+      parent: Commentaries
+    f88A5:
+      title: 'The Words of Jigme Chökyi Wangpo: A Commentary Presenting the Subject
+        Matter of the Great Treatise Abhisamayālaṃkāra'
+      base_file: f88A5.txt
+      order: 4
+      parent: Commentaries
+    f1DC3:
+      title: 'Excellent Explanation from the Scriptural Tradition: A Brief Guide to
+        the Stages of Meditating on the General Themes of the Ornament to the Prajñāpāramitā'
+      base_file: f1DC3.txt
+      order: 5
+      parent: Commentaries
+    fCBFE:
+      title: The Eightfold Nature of Profundity from the Abhisamayālaṃkāra
+      base_file: fCBFE.txt
+      order: 6
+      parent: Notes
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
